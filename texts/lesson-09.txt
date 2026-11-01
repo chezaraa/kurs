@@ -1,0 +1,196 @@
+INKCRAFT | ИСПАНСКИЙ ДЛЯ РЕМОНТА | УРОК 09 ИЗ 16
+
+КОНДИЦИОНИРОВАНИЕ, ОТОПЛЕНИЕ, ВЕНТИЛЯЦИЯ И ГАЗ
+
+Продолжительность основной практики: 60 минут. Уровень: с нуля, с профессиональными речевыми формулами.
+
+РЕЗУЛЬТАТ
+Обсудить подбор и расположение климатического оборудования, трассы, дренаж, наружный блок, доступ на крышу, шум,
+обслуживание, отопление и вентиляцию. Назвать газовые системы и необходимость компетентного исполнителя, не обещая
+неподтверждённые полномочия.
+
+КАК ИСПОЛЬЗОВАТЬ УРОК
+Это практический испанский Испании для ремонта квартир: Барселона, Таррагона и Costa Dorada. Ситуации адаптированы
+к предоставленной презентации INKCRAFT: исполнение проектов дизайнеров, координация восьми направлений работ, кухни
+и ванные, индивидуальные детали, связь с заказчиком.
+Говори вслух. В каждом новом уроке активно отработай примерно 5-6 глаголов и 10-12 терминов, остальные сначала
+узнавай по смыслу. Готовые более сложные фразы можно использовать целиком до изучения их грамматики. Обращение
+tú/usted сохраняй последовательно; в учебных ситуациях специально показаны оба варианта.
+Основная часовая программа — разделы 1-8. В вопросах заказчика за этот час обязательны первые четыре пары;
+остальные добавлены для рабочего справочника. Словари в конце расширяют охват и не требуют заучивания за один час.
+Ответы открывай после самостоятельной попытки.
+Примеры размеров, денег, календаря и объектов учебные, если прямо не указано иное. Это языковой курс: техническое
+решение подтверждают проект, данные изготовителя, обследование и соответствующий специалист. Реальные сообщения из
+примеров автоматически не отправляются.
+
+1. РАЗМИНКА И ПОВТОРЕНИЕ | 00-05 МИН
+Скажи: «Нужен доступ для обслуживания»; «Сначала проверяем трассу»; «Дата зависит от поставки». Ключ: Necesitamos
+acceso para mantenimiento. Primero comprobamos el recorrido. La fecha depende de la entrega.
+
+2. КОРОТКАЯ ЯЗЫКОВАЯ СХЕМА | 05-15 МИН
+Условие с si + настоящее: Si hay acceso, revisamos la unidad. — Если есть доступ, осматриваем блок. Si cambia el
+recorrido, cambia el presupuesto. — Если меняется трасса, меняется смета.
+Для реального условия не нужно автоматически ставить будущее после si. Удобная схема: Si + настоящее, настоящее /
+vamos a + инфинитив. Si llega el equipo, vamos a coordinar el montaje.
+Зависимость: depende de + существительное. Depende del modelo — зависит от модели; del = de + el. Depende de la
+longitud del recorrido — зависит от длины трассы.
+Надобность: hace falta + единственное / hacen falta + множественное: hace falta una bomba; hacen falta dos bombas.
+Hay que + инфинитив — нужно сделать; эта конструкция уже знакома.
+Сравнение потока: enfría poco — слабо охлаждает; no calienta — не греет; hace ruido — шумит; gotea — капает; no
+arranca — не запускается.
+Не смешивай función «холод/тепло» и установочную готовность: funciona — работает; está instalado — установлен; está
+comprobado — проверен; está puesto en marcha — введён в работу. Один этап не доказывает автоматически остальные.
+Готовые фразы в документах: empresa habilitada — компания с необходимым допуском; personal certificado —
+сертифицированный персонал. Эти слова описывают проверяемый статус исполнителя.
+
+3. ГЛАГОЛЫ, ТЕРМИНЫ И ОПОРНЫЕ ФРАЗЫ | 15-25 МИН
+Глаголы. Если дана тройка форм, порядок: я / Вы (один человек) / мы. Частотные отдельные формы подписаны.
+enfriar — охлаждать; enfrío / enfría / enfriamos.
+calentar — нагревать; caliento / calienta / calentamos.
+ventilar — вентилировать; ventilo / ventila / ventilamos.
+condensar — конденсировать; condensa — конденсируется/образует конденсат.
+arrancar — запускаться/запускать; arranco / arranca / arrancamos.
+reutilizar — использовать повторно; reutilizo / reutiliza / reutilizamos.
+mantener — обслуживать/поддерживать; mantengo / mantiene / mantenemos.
+coordinar — координировать; coordino / coordina / coordinamos.
+
+Термины:
+el aire acondicionado — кондиционирование/кондиционер; la climatización — климатические системы.
+la unidad interior / exterior — внутренний / наружный блок; el multisplit — мультисплит.
+la línea frigorífica — холодильная трасса; el refrigerante — хладагент.
+el aislamiento de tuberías — изоляция труб; el desagüe de condensados — отвод конденсата.
+la bomba de condensados — дренажный насос; la canaleta — короб.
+el conducto — воздуховод; la rejilla — решётка; el difusor — диффузор.
+la ventilación — вентиляция; el extractor — вытяжной вентилятор.
+el radiador — радиатор; la caldera — котёл; el termostato — термостат.
+la puesta en marcha — ввод в работу/пусконаладка; el mantenimiento — обслуживание.
+
+Рабочие фразы:
+¿Dónde quiere colocar las unidades interiores? — Где хотите внутренние блоки?
+La ubicación exterior se confirma con el acceso, las condiciones del edificio y el trámite que corresponda. —
+Наружное место подтверждаем с учётом доступа, условий здания и оформления.
+Hay que comprobar la longitud y las limitaciones del modelo. — Нужно проверить длину и ограничения модели.
+Las líneas antiguas solo se reutilizan si se confirma su compatibilidad y estado. — Старые трассы используем после
+подтверждения совместимости и состояния.
+Si no hay desagüe por gravedad, estudiamos otra solución. — Если нет самотечного слива, рассмотрим другое решение.
+Esta zona necesita un registro de mantenimiento. — Здесь нужна ревизия для обслуживания.
+El recorrido pasa por la azotea, el falso techo y esta pared. — Трасса проходит по крыше, за потолком и по этой
+стене.
+El desmontaje y la puesta en marcha aparecen por separado en el presupuesto. — Демонтаж и пусконаладка указаны в
+смете отдельно.
+La intervención en el circuito frigorífico la realiza la empresa habilitada con el personal certificado que
+corresponda. — Работы с холодильным контуром выполняет компания с необходимыми допусками и сертифицированным
+персоналом.
+Comprobamos el funcionamiento y el desagüe antes de la entrega. — До сдачи проверяем работу и дренаж.
+
+4. УСТНАЯ ТРЕНИРОВКА | 25-35 МИН
+Пять условий: si no hay acceso / si cambia el modelo / si la línea es más larga / si no hay pendiente / si llega el
+equipo. Закончи каждое рабочей фразой.
+Опиши четыре симптома без диагноза: no enfría; no calienta; hace ruido; gotea. Для каждого добавь primero
+comprobamos…
+Повтори маршрут: por la azotea → por el falso techo → por la pared → hasta la unidad. Уточни доступы: ¿Dónde queda
+el registro?
+
+5. РАЗГОВОР С ЗАКАЗЧИКОМ | 35-45 МИН
+Вопросы заказчика и возможные ответы. Первые четыре пары — активная практика, остальные — расширенный банк.
+1. ¿Podemos aprovechar las tuberías antiguas? — Можно оставить старые трубы трассы?
+Primero comprobamos el modelo, el estado, las dimensiones y las condiciones de reutilización. — Сначала проверим
+модель, состояние, размеры и условия повторного использования.
+2. ¿Hace falta una bomba de condensados? — Нужен дренажный насос?
+Depende del recorrido y de la posibilidad de evacuar por gravedad. — Зависит от трассы и возможности самотечного
+отвода.
+3. ¿Va a hacer mucho ruido? — Будет сильно шуметь?
+Revisamos las características del equipo, la ubicación y los apoyos; después comprobamos el resultado. — Проверим
+характеристики, место и опоры; затем проверим результат.
+4. ¿Por qué no podemos ponerlo en la fachada? — Почему нельзя просто поставить на фасад?
+Hay que comprobar las condiciones del edificio, la comunidad y el ayuntamiento antes de decidirlo. — До решения
+нужно проверить условия здания, сообщества и муниципалитета.
+5. ¿Incluye retirar los equipos viejos? — Снятие старых блоков включено?
+Lo indicamos expresamente, junto con su gestión y la intervención sobre el refrigerante. — Указываем явно, вместе с
+обращением с оборудованием и работами по хладагенту.
+6. ¿Puede revisar también la caldera de gas? — Можете проверить газовый котёл?
+Coordinamos la revisión con el profesional o empresa habilitados para esa instalación. — Организуем проверку
+специалистом или компанией с необходимыми допусками к этой системе.
+
+Диалог. Прочитай в двух ролях, затем повтори с изменёнными предметами и условиями:
+Заказчик: Queremos tres unidades interiores y una exterior. — Хотим три внутренних блока и один наружный.
+Сергей: ¿Dónde podemos colocar la unidad exterior? — Где можно разместить наружный блок?
+Заказчик: En la azotea, si la comunidad confirma el acceso. — На крыше, если сообщество подтвердит доступ.
+Сергей: Vamos a medir el recorrido y comprobar las condiciones del equipo. — Измерим трассу и проверим условия
+оборудования.
+Заказчик: Un recorrido puede tener veintiún metros. — Одна трасса может быть двадцать один метр.
+Сергей: Lo verificamos con el modelo elegido; no confirmamos solo por la longitud aproximada. — Проверим по
+выбранной модели; одной примерной длины недостаточно.
+Заказчик: ¿Y el agua de las unidades? — А вода от блоков?
+Сергей: Definimos el desagüe y comprobamos si hacen falta bombas de condensados. — Определим слив и проверим
+необходимость насосов.
+Пример учебный, не расчёт и не подтверждение возможности конкретного монтажа.
+
+6. РОЛЕВОЙ СЦЕНАРИЙ И ПИСЬМЕННОЕ ПОДТВЕРЖДЕНИЕ | 45-55 МИН
+Обсуди условный мультисплит 3×1: наружный блок на крыше, две существующие трассы и одна новая длинная, два
+возможных насоса. Спроси модель, маршрут, питание, дренаж, доступ и условия дома. Назови, что отдельно должно быть
+в смете: демонтаж, трассы, насосы, подъём, подключение, проверки, документация. Не называй мощность и допустимую
+длину без данных модели.
+
+Пример письменного подтверждения. Сначала пойми, затем перескажи своими словами:
+Hola. Para cerrar la propuesta de climatización necesitamos confirmar el modelo, la ubicación exterior y el acceso
+a la azotea. Revisaremos la compatibilidad de las líneas existentes y el desagüe de condensados. La instalación y
+la documentación se coordinan con la empresa habilitada correspondiente.
+Здравствуйте. Для завершения предложения по климатизации нужно подтвердить модель, наружное место и доступ на
+крышу. Проверим совместимость существующих трасс и слив конденсата. Монтаж и документацию согласуем с
+соответствующей компанией с необходимыми допусками.
+
+7. КОНТРОЛЬ БЕЗ ПОДСКАЗКИ | 55-60 МИН
+1. Если меняется трасса, меняется смета.
+2. Нужно проверить ограничения модели.
+3. Где будет наружный блок?
+4. Нужны два дренажных насоса.
+5. Прибор не охлаждает.
+6. Нужен доступ для обслуживания.
+7. Сначала проверим старые трассы.
+8. Пусконаладка указана отдельно.
+
+8. КЛЮЧИ К КОНТРОЛЮ | ОТКРЫТЬ ПОСЛЕ ПОПЫТКИ
+1. Si cambia el recorrido, cambia el presupuesto.
+2. Hay que comprobar las limitaciones del modelo.
+3. ¿Dónde va a estar la unidad exterior?
+4. Hacen falta dos bombas de condensados.
+5. El equipo no enfría.
+6. Hace falta acceso para mantenimiento.
+7. Primero revisamos las líneas antiguas.
+8. La puesta en marcha aparece por separado.
+
+ПРОВЕРКА РЕЗУЛЬТАТА
+Рабочая цель: 7 из 8 контрольных фраз без таблицы и понятный разговор по сценарию. Допустимы другие грамматически
+правильные ответы с тем же смыслом. Вопрос, отрицание, участник и технический предмет должны совпадать с заданием.
+При ошибке произнеси правильное предложение целиком. Итоговая оценка урока 16 дополнена собственной шкалой в
+сценарии.
+
+ПОВТОРЕНИЕ МЕЖДУ ЗАНЯТИЯМИ | 10 МИНУТ
+3 минуты: три глагола в формах «я / мы / мы не / Вы...?». 4 минуты: диалог в двух ролях с заменой двух предметов. 3
+минуты: объясни реальную или учебную ситуацию на объекте пятью фразами. Для прошлых событий используй прошедшие
+формы после урока 14; до этого тренируй учебные ситуации в настоящем. Это дополнительное закрепление сверх 16
+учебных часов.
+
+СПРАВОЧНИК ПО ТЕМЕ | ДЛЯ ПОИСКА НА ОБЪЕКТЕ
+Климат/отопление: el equipo por conductos — канальная система; la bomba de calor — тепловой насос; la aerotermia —
+воздушный тепловой насос/система на его основе; el suelo radiante — тёплый пол; el fan-coil — фанкойл; el
+recuperador de calor — рекуператор; la impulsión — подача воздуха; el retorno — обратный воздух/обратная линия; la
+extracción — вытяжка; la aportación de aire — приток; la válvula termostática — термостатический клапан; el
+circuito de calefacción — контур отопления; el purgador — воздухоотводчик; la sonda — датчик/зонд; el mando —
+пульт/управление.
+Детали/работы: el soporte — кронштейн/опора; el silentblock — виброопора; la bandeja de condensados — поддон
+конденсата; la conexión frigorífica — холодильное соединение; la prueba de fugas — проверка утечек; el vacío —
+вакуумирование/вакуум по контексту; la recuperación del refrigerante — извлечение/сбор хладагента; la carga de
+refrigerante — заправка хладагентом; el certificado — сертификат; el manual — руководство.
+Газ: el gas natural — природный газ; el GLP — сжиженный углеводородный газ; el contador de gas — газовый счётчик;
+la llave de gas — газовый кран; la salida de humos — дымоудаление; la chimenea — дымоход; la inspección —
+инспекция; la revisión — обслуживание/проверка; la estanqueidad — герметичность. Лексика не является инструкцией по
+вмешательству в газовую систему.
+Глаголы-справка: refrigerar — охлаждать; extraer — извлекать/вытягивать; impulsar — подавать; aspirar —
+всасывать/пылесосить; condensar — конденсировать; recuperar — извлекать/восстанавливать; cargar —
+заправлять/грузить; aislar — изолировать; equilibrar — балансировать; ajustar — настраивать; programar —
+программировать; mantener — обслуживать; revisar — проверять; arrancar — запускаться.
+Локальный источник терминов и статуса исполнителя: Generalitat, Comunicació d’instal·lació d’equips amb gasos fluorats: https://canalempresa.gencat.cat/ca/integraciodepartamentaltramit/tramit/PerTemes/Comunicacio-dinstallacio-dequips-amb-gasos-fluorats . Проверено 26.10.2026. Не подменяет проверку требований к конкретному оборудованию.
+
+Версия курса: 26 октября 2026 года. Подготовлено для Сергея / INKCRAFT.

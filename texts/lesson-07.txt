@@ -1,0 +1,190 @@
+INKCRAFT | ИСПАНСКИЙ ДЛЯ РЕМОНТА | УРОК 07 ИЗ 16
+
+ЭЛЕКТРИКА, ОСВЕЩЕНИЕ И СЛАБОТОЧНЫЕ СИСТЕМЫ
+
+Продолжительность основной практики: 60 минут. Уровень: с нуля, с профессиональными речевыми формулами.
+
+РЕЗУЛЬТАТ
+Обсудить расположение розеток и выключателей, световые сценарии, электрощит, линии для техники, интернет и
+управление. Подтвердить план до закрытия стен и отделить монтаж от выпуска технических документов.
+
+КАК ИСПОЛЬЗОВАТЬ УРОК
+Это практический испанский Испании для ремонта квартир: Барселона, Таррагона и Costa Dorada. Ситуации адаптированы
+к предоставленной презентации INKCRAFT: исполнение проектов дизайнеров, координация восьми направлений работ, кухни
+и ванные, индивидуальные детали, связь с заказчиком.
+Говори вслух. В каждом новом уроке активно отработай примерно 5-6 глаголов и 10-12 терминов, остальные сначала
+узнавай по смыслу. Готовые более сложные фразы можно использовать целиком до изучения их грамматики. Обращение
+tú/usted сохраняй последовательно; в учебных ситуациях специально показаны оба варианта.
+Основная часовая программа — разделы 1-8. В вопросах заказчика за этот час обязательны первые четыре пары;
+остальные добавлены для рабочего справочника. Словари в конце расширяют охват и не требуют заучивания за один час.
+Ответы открывай после самостоятельной попытки.
+Примеры размеров, денег, календаря и объектов учебные, если прямо не указано иное. Это языковой курс: техническое
+решение подтверждают проект, данные изготовителя, обследование и соответствующий специалист. Реальные сообщения из
+примеров автоматически не отправляются.
+
+1. РАЗМИНКА И ПОВТОРЕНИЕ | 00-05 МИН
+Скажи: «Нужно проверить скрытые коммуникации»; «Не продолжаем до подтверждения»; «Где хотите разместить свет?».
+Ключ: Hay que comprobar las instalaciones ocultas. No continuamos hasta la confirmación. ¿Dónde quiere colocar la
+luz?
+
+2. КОРОТКАЯ ЯЗЫКОВАЯ СХЕМА | 05-15 МИН
+Просьбы на usted: confirme — подтвердите; indique — укажите; revise — проверьте; envíe — отправьте. Запоминаем как
+рабочие формы, а не выводим все повелительные формы из правила -ar.
+Пожалуйста: Confirme la posición, por favor. Вопросительная просьба мягче: ¿Puede confirmar la posición?
+Отрицательная просьба: No conecte este equipo todavía. — Пока не подключайте этот прибор. No toque — не трогайте.
+Здесь не используем настоящее no conecta вместо просьбы no conecte.
+Расположение: encima de — над; debajo de — под; junto a — рядом с; detrás de — за; delante de — перед; entre —
+между. A veinte centímetros de la esquina — в двадцати сантиметрах от угла. A la altura indicada en el plano — на
+указанной в плане высоте.
+Для назначения: para + инфинитив: una toma para conectar el horno — точка подключения духовки. Потому что: porque
+necesitamos otra línea — потому что нужна другая линия.
+Количество: un enchufe / dos enchufes; una toma / tres tomas; un punto de luz / cuatro puntos de luz.
+В вопросах мощности различай kW — potencia (мощность), kWh — energía (энергия). В курсе не назначаем сечения,
+номиналы защиты и высоты как универсальные нормы: говорим «según el proyecto y la comprobación del instalador» — по
+проекту и проверке монтажника.
+
+3. ГЛАГОЛЫ, ТЕРМИНЫ И ОПОРНЫЕ ФРАЗЫ | 15-25 МИН
+Глаголы. Если дана тройка форм, порядок: я / Вы (один человек) / мы. Частотные отдельные формы подписаны.
+conectar — подключать; conecto / conecta / conectamos.
+desconectar — отключать; desconecto / desconecta / desconectamos.
+encender — включать свет/прибор; enciendo / enciende / encendemos.
+apagar — выключать; apago / apaga / apagamos.
+alimentar — подавать питание; alimento / alimenta / alimentamos.
+iluminar — освещать; ilumino / ilumina / iluminamos.
+regular — регулировать; regulo / regula / regulamos.
+verificar — проверять; verifico / verifica / verificamos.
+
+Термины:
+el enchufe / la base de enchufe — розетка; la toma de corriente — точка питания.
+el interruptor — выключатель; el conmutador — переключатель для управления из нескольких мест.
+el cuadro eléctrico — электрощит; el circuito — электрическая цепь/линия.
+el diferencial — устройство дифференциальной защиты; el magnetotérmico — автоматический выключатель.
+la toma de tierra — заземление; el cableado — проводка.
+el punto de luz — световая точка; la luminaria — светильник.
+la tira LED — светодиодная лента; el perfil de aluminio — алюминиевый профиль.
+el regulador — диммер/регулятор; la temperatura de color — цветовая температура.
+la toma de datos — информационная розетка; el videoportero — видеодомофон.
+
+Рабочие фразы:
+¿Dónde quiere los enchufes de la encimera? — Где хотите розетки над столешницей?
+Necesitamos confirmar los electrodomésticos antes de definir las tomas. — До определения точек нужно подтвердить
+бытовую технику.
+La posición se mide desde el suelo terminado. — Положение измеряем от чистого пола.
+¿Quiere encender esta luz desde dos puntos? — Хотите включать этот свет из двух мест?
+La fuente de alimentación debe quedar accesible para mantenimiento. — Доступ к блоку питания нужно предусмотреть
+для обслуживания.
+Esta tira LED lleva un perfil con difusor. — Эта LED-лента устанавливается в профиль с рассеивателем.
+Vamos a separar los circuitos según la solución definida por el instalador. — Разделим цепи по решению монтажника.
+Antes de cerrar, comprobamos el trazado y hacemos fotos. — До зашивки проверяем трассы и фотографируем.
+El instalador habilitado confirma la solución y la documentación que corresponde. — Уполномоченный монтажник
+подтверждает решение и необходимые документы.
+No conecte este equipo todavía, por favor. — Пожалуйста, пока не подключайте этот прибор.
+
+4. УСТНАЯ ТРЕНИРОВКА | 25-35 МИН
+Дай пять просьб на usted: confirmar la posición; enviar el plano; indicar la altura; revisar la referencia; no
+conectar el equipo. Ключи: Confirme…; Envíe…; Indique…; Revise…; No conecte…
+Поставь розетку рядом со шкафом, над столешницей, под столом, за телевизором: junto al armario; encima de la
+encimera; debajo de la mesa; detrás del televisor. Al = a + el.
+Для пяти приборов спроси: ¿Qué toma necesita? — Какая точка подключения нужна? Приборы: horno, placa de inducción,
+lavadora, lavavajillas, aire acondicionado.
+
+5. РАЗГОВОР С ЗАКАЗЧИКОМ | 35-45 МИН
+Вопросы заказчика и возможные ответы. Первые четыре пары — активная практика, остальные — расширенный банк.
+1. ¿Puedo poner un enchufe aquí? — Можно здесь розетку?
+Comprobamos la ubicación, el uso y los requisitos de esa zona con el instalador. — Проверим место, назначение и
+требования к зоне с монтажником.
+2. ¿Es necesario cambiar todo el cableado? — Нужно менять всю проводку?
+Primero revisamos su estado, las necesidades y la documentación disponible. — Сначала проверим состояние,
+потребности и имеющиеся документы.
+3. ¿Puedo regular la luz? — Можно регулировать яркость?
+Sí, si la luminaria, el equipo y el sistema de regulación son compatibles. — Да, если совместимы светильник,
+питание и система регулирования.
+4. ¿La luz va a ser cálida o fría? — Свет будет тёплый или холодный?
+Confirmamos la temperatura de color y, si hace falta, hacemos una prueba con una muestra. — Подтвердим цветовую
+температуру и при необходимости проверим образец.
+5. ¿Incluye el boletín eléctrico? — Электрический сертификат включён?
+Comprobamos qué documento corresponde y si está incluido en la partida del instalador. — Проверим нужный документ и
+включение в позицию монтажника.
+6. ¿Se puede esconder todo el cable? — Можно скрыть все провода?
+Revisamos recorridos, registros y accesos de mantenimiento antes de confirmarlo. — До подтверждения проверим
+трассы, ревизии и доступ для обслуживания.
+
+Диалог. Прочитай в двух ролях, затем повтори с изменёнными предметами и условиями:
+Заказчик: Quiero dos enchufes aquí y una luz bajo el mueble. — Хочу две розетки здесь и свет под мебелью.
+Сергей: ¿Tenemos las medidas definitivas del mueble? — Есть окончательные размеры мебели?
+Заказчик: Todavía no. — Пока нет.
+Сергей: Entonces marcamos una propuesta y la confirmamos con el carpintero. — Тогда нанесём предложение и
+подтвердим со столяром.
+Заказчик: ¿Podemos poner luz indirecta como en el portfolio? — Можно скрытый свет как в портфолио?
+Сергей: Sí, definimos el perfil, el acceso al equipo y el control de encendido. — Да, определим профиль, доступ к
+питанию и управление.
+Заказчик: ¿Cuándo tengo que decidirlo? — Когда нужно решить?
+Сергей: Antes de cerrar el techo y encargar los equipos. — До зашивки потолка и заказа оборудования.
+
+6. РОЛЕВОЙ СЦЕНАРИЙ И ПИСЬМЕННОЕ ПОДТВЕРЖДЕНИЕ | 45-55 МИН
+Спланируй кухню и спальню с дизайнером: духовка, индукция, посудомойка, подсветка столешницы, управление светом у
+входа и кровати, интернет у стола. Клиент хочет перенести розетку после плитки. Объясни, что надо проверить трассу,
+отделку и изменение стоимости. Не назначай электрические параметры по разговорному шаблону.
+
+Пример письменного подтверждения. Сначала пойми, затем перескажи своими словами:
+Hola. Adjunto la propuesta de puntos eléctricos y de iluminación. Falta confirmar las medidas del mobiliario y las
+referencias de las luminarias regulables. Por favor, revisa las posiciones antes de cerrar las paredes y el techo.
+El instalador comprobará la solución y la documentación necesaria.
+Здравствуйте. Прилагаю предложение электрических и световых точек. Осталось подтвердить размеры мебели и артикулы
+диммируемых светильников. Проверьте положения до закрытия стен и потолка. Монтажник проверит решение и необходимые
+документы.
+
+7. КОНТРОЛЬ БЕЗ ПОДСКАЗКИ | 55-60 МИН
+1. Подтвердите положение розетки.
+2. Пока не подключайте прибор.
+3. Хотите включать свет из двух мест?
+4. Блок питания должен быть доступен.
+5. Нам нужны размеры мебели.
+6. Розетка рядом со шкафом.
+7. До зашивки фотографируем трассы.
+8. Электрический сертификат включён?
+
+8. КЛЮЧИ К КОНТРОЛЮ | ОТКРЫТЬ ПОСЛЕ ПОПЫТКИ
+1. Confirme la posición del enchufe, por favor.
+2. No conecte el equipo todavía.
+3. ¿Quiere encender la luz desde dos puntos?
+4. La fuente de alimentación debe quedar accesible.
+5. Necesitamos las medidas del mobiliario.
+6. El enchufe está junto al armario.
+7. Hacemos fotos del trazado antes de cerrar.
+8. ¿El boletín eléctrico está incluido?
+
+ПРОВЕРКА РЕЗУЛЬТАТА
+Рабочая цель: 7 из 8 контрольных фраз без таблицы и понятный разговор по сценарию. Допустимы другие грамматически
+правильные ответы с тем же смыслом. Вопрос, отрицание, участник и технический предмет должны совпадать с заданием.
+При ошибке произнеси правильное предложение целиком. Итоговая оценка урока 16 дополнена собственной шкалой в
+сценарии.
+
+ПОВТОРЕНИЕ МЕЖДУ ЗАНЯТИЯМИ | 10 МИНУТ
+3 минуты: три глагола в формах «я / мы / мы не / Вы...?». 4 минуты: диалог в двух ролях с заменой двух предметов. 3
+минуты: объясни реальную или учебную ситуацию на объекте пятью фразами. Для прошлых событий используй прошедшие
+формы после урока 14; до этого тренируй учебные ситуации в настоящем. Это дополнительное закрепление сверх 16
+учебных часов.
+
+СПРАВОЧНИК ПО ТЕМЕ | ДЛЯ ПОИСКА НА ОБЪЕКТЕ
+Материалы: el cable — кабель; el conductor — проводник; el tubo corrugado — гофротруба; la canaleta — кабель-канал;
+la caja de mecanismos — установочная коробка; la caja de derivación — распределительная коробка; el borne — клемма;
+la regleta — клеммная колодка; la brida — кабельная стяжка; el mecanismo — розеточный/выключательный механизм; el
+marco — рамка.
+Свет/связь: el foco empotrado — встраиваемый светильник; el downlight — потолочный светильник; el aplique — бра; la
+lámpara colgante — подвесной светильник; el carril — шинопровод; el sensor de presencia — датчик присутствия; la
+fuente de alimentación — блок питания; el driver — драйвер; el difusor — рассеиватель; el circuito de iluminación —
+линия освещения; el router — маршрутизатор; el punto de acceso — точка доступа; la toma de antena — ТВ-розетка; la
+fibra óptica — оптоволокно; la domótica — автоматизация дома; la persiana motorizada — моторизованная роллета; el
+detector de humo — дымовой извещатель; la alarma — сигнализация.
+Инструменты: el multímetro — мультиметр; el comprobador de tensión — указатель/измеритель напряжения; el pelacables
+— инструмент для снятия изоляции; la guía pasacables — протяжка; la crimpadora — обжимной инструмент.
+Документы: el certificado de instalación eléctrica (CIE) — сертификат электрической установки; el boletín —
+распространённое название документа, точный вид уточняют; el esquema unifilar — однолинейная схема; la potencia
+contratada — договорная мощность; la legalización / puesta en servicio — оформление/ввод установки.
+Глаголы-справка: cablear — прокладывать проводку; tender — прокладывать/натягивать; derivar — делать ответвление;
+empotrar — встраивать; fijar — закреплять; aislar — изолировать; alimentar — питать; dimensionar — подбирать
+размеры/параметры; certificar — удостоверять сертификатом; dispararse — срабатывать о защите; funcionar — работать
+о приборе.
+
+Версия курса: 26 октября 2026 года. Подготовлено для Сергея / INKCRAFT.
